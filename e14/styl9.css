@@ -1,0 +1,41 @@
+body * {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+header {
+  display: flex;
+  gap: 250px;
+  background-color: rgb(197, 85, 160);
+  text-align: center;
+  width: 50%;
+  height: 180px;
+}
+
+header section 
+{
+    margin-left: 50px;
+    margin-left: 100px;
+
+}
+
+#baner, footer
+{
+    background-color: rgb(246, 226, 222);
+    text-align: center;
+    height: 100px;
+    padding: 10px;
+}
+main section
+{
+    background-color: rgb(197, 85, 160);
+    text-align: center;
+    height: 100px;
+    padding: 10px;
+}
+
+main
+{
+    display: flex;
+    flex-wrap: wrap;
+}
+#zamowienie
